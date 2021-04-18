@@ -1,0 +1,120 @@
+html {
+    height: 100%
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  background-color: #F1F4F8;
+}
+.MuiTypography-body1 {
+  font-family: 'Nunito Sans', sans-serif !important;
+}
+.nav-tabs {
+  border-bottom: 1px solid transparent;
+}
+#nav-tab-user {
+  border-bottom: 1px solid #CBD2E1;
+  justify-content: center;
+  align-items: center;
+}
+#nav-tab-user .nav-item {
+  font-size: 20px;
+}
+.tab-content {
+  border: 1px solid transparent !important;
+}
+.card  {
+  border: 1px solid #CBD2E1;
+  border-bottom: 1px solid transparent;
+}
+.card-header {
+  background: #F7F8FB  !important;
+}
+.card-body, .card-header {
+  border-bottom: 1px solid #CBD2E1;
+}
+h5 {
+  margin: 0;
+    display: inline-block;
+}
+.action-btn {
+  float: right;
+  border-radius: 25px;
+  width: 100px;
+  margin-left: 25px;
+}
+.status {
+  float: right;
+  font-size: 18px;
+  font-weight: bold;
+}
+.overlapping {
+  color: #E2006A;
+}
+.booked {
+  color: #004FB4;
+}
+.card-main-title {
+  font-size: 20px;
+  font-weight: bold;
+  padding-right:15px;
+  color: #4F6C92;
+}
+.card-title {
+  color: #4F6C92;
+}
+.card-text {
+  color: #A4B8D3;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
+  border: 1px solid transparent;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  border-color: transparent !important;
+  background-color: transparent !important;
+  color: #004FB4 !important;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link {
+  font-size: 1.75rem;
+  color: #A4B8D3;
+}
+.btn-outline-danger {
+  color: #E2006A !important;
+  border-color: #E2006A !important;
+}
+.btn-outline-danger:hover  {
+  color: #E2006A !important;
+  background-color: #fff;
+}
+.btn-outline-success:hover  {
+  color: #16A64D !important;
+  background-color: #fff;
+}
+.btn-outline-danger:disabled {
+  color: #FE93B3 !important;
+  border-color: #FE93B3 !important;
+}
+.btn-outline-success:disabled {
+  color: #55CB82 !important;
+  border-color: #55CB82 !important;
+}
+.pic {
+  height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
